@@ -1,0 +1,7 @@
+1. Extrack Pamsimas.rar
+2. Kopi folder pamsimas_punjulharjo ke C:\xampp\htdocs
+3. Jalankan Apache dan MySQL pada XAMPP 
+4. Buka PHPMyAdmin lalu buat database baru dengan nama db_air
+5. Pilih database db_air lalu klik menu import di bagian tengah atas 
+6. lalu klik "choose file" dan masukkan db_air.scv lalu klik tombol go di bawah
+7. Pada menu pencarian di website masukkan "localhost/pamsimas_punjulharjo" lalu klik Enter
